@@ -1,0 +1,13 @@
+{
+    "status": 200,
+    "message": "OK",
+    "token": "J765YT90908032022",
+    "phone": {
+        "name": "Redmi Note 9 Pro",
+        "vendor": "Redmi",
+        "dimensions": {
+            "height": 20,
+            "width": 9
+        }
+    }
+}
